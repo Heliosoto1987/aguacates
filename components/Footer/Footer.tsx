@@ -38,25 +38,16 @@ const Footer = () => (
           <Grid.Column width={7}>
             <Header as="h4">Hecho para</Header>
             <p>
-              <Link href="https://platzi.com/">
-                Platzi y su curso de Next.JS
-              </Link>{' '}
-              de Platzi dictado por{' '}
+              <div>Aprender en Platzi y su curso de Next.JS</div> de Platzi
+              dictado por:{' '}
               <Link href="https://twitter.com/jonalvarezz">@jonalvarezz</Link>
             </p>
             <List horizontal style={{ display: 'flex' }}>
               <List.Item
-                icon="twitter"
-                style={{ display: 'flex' }}
-                content={
-                  <Link href="https://twitter.com/jonalvarezz">Twitter</Link>
-                }
-              />
-              <List.Item
                 icon="github"
                 style={{ display: 'flex' }}
                 content={
-                  <Link href="https://github.com/jonalvarezz/platzi-nextjs">
+                  <Link href="https://github.com/Heliosoto1987/aguacates">
                     GitHub
                   </Link>
                 }
@@ -70,7 +61,7 @@ const Footer = () => (
           Icons made by{' '}
           <Link
             target="_blank"
-            href="https://www.flaticon.com/authors/freepik"
+            href="https://github.com/Heliosoto1987"
             title="Freepik"
           >
             Freepik
