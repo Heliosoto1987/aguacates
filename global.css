@@ -13,3 +13,8 @@
   margin: 1rem auto 0;
   max-width: 80ch;
 }
+.fix {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
