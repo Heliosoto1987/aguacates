@@ -31,6 +31,5 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
     yarn dev
     ```
 
-    El sitio estará disponible en https://aguacates-mvxn-prsfej1gp-heliosoto-soameecom.vercel.app/)https://aguacates-mvxn-prsfej1gp-heliosoto-soameecom.vercel.app
-
+    El sitio estará disponible en https://aguacates-mvxn-prsfej1gp-heliosoto-soameecom.vercel.app
     Happy hacking!
